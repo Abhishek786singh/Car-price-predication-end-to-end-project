@@ -28,7 +28,7 @@ So, basically the main idea of this project is that we have some features of the
 
                     - Sklearn
                 
-   ![car2](images/car2.peng)
+   ![car2](images/car2.jpg)
  
  
  If you want to check it out URL-https://carkiprice.herokuapp.com.
