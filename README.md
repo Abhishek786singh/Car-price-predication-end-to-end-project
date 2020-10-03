@@ -11,7 +11,7 @@ implemented to predict the price of cars.
 So, basically the main idea of this project is that we have some features of the car and how old it is from this data
 
  we have to predict the price of car in this present day.
-![car1](images/car1.PNG)
+![car1](images/car1.png)
  
 
  LIBREARY AND TOLLS - Pandas
