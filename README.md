@@ -34,5 +34,5 @@ So, basically the main idea of this project is that we have some features of the
  If you want to check it out URL-https://carkiprice.herokuapp.com.
  ## All Thanks to -Krish Nike sir
                     
-      ....
+      
 
