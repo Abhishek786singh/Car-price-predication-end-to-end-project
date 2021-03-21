@@ -18,3 +18,8 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
+ "hoek": {
+      "version":  "4.2.1",
+      "resolved": "https://registry.npmjs.org/hoek/-/hoek-4.2.1.tgz",
+      "integrity": "sha1-ILt0A9POo5jpHcRxCo/xuCdKJe0=",
+      "dev": true
